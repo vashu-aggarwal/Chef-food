@@ -1,6 +1,6 @@
 import Userclass from "./Userclass";
 import Userclass1 from "./Userclass1";
-
+import React from 'react';
 const About = () => {
   return (
     <div>

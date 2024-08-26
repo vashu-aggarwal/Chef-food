@@ -1,5 +1,5 @@
 import { CDN_URL } from "../Utils/contants";
-
+import React from 'react';
 
 const ResturantCard=(props)=>{
     const {resData}=props
